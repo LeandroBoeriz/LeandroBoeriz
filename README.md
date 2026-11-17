@@ -10,7 +10,6 @@ Social Media:
 <a href="https://www.reddit.com/user/leandrozx17"/> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="blank"/> <a href="https://twitter.com/leandrozx17"/> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> <a href="https://www.goodreads.com/user/show/72788866-leandro-boeriz"/> <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leandroboeriz)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 LeandroBoeriz/LeandroBoeriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
